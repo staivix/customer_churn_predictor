@@ -1,0 +1,9 @@
+{
+  "organization": "Credit One Bank",
+  "systemProfileID": "SYS-CHURN-003",
+  "aiSystemName": "customer_churn_predictor",
+  "environment": "production",
+  "localOverrides": {
+    "deployment_geographies": ["Global"]
+  }
+}
