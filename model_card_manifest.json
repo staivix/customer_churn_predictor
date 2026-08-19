@@ -1,0 +1,10 @@
+{
+  "control_id": "STX-AI-082",
+  "status": "VERIFIED_PRODUCTION_RELEASE",
+  "documentation_telemetry": {
+    "intended_limitations": "Model targets standard customer activity trends only. Not optimized for macro-economic anomalies.",
+    "bias_reassessment_interval": "monthly"
+  },
+  "assigned_reviewer": "STX-REV-4402",
+  "timestamp": "2026-08-19T00:10:00Z"
+}
